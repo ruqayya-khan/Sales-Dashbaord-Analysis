@@ -11,10 +11,10 @@ The dashboard was created as part of my learning journey in Data Analytics and d
 
 The dataset contains information related to:
 
-Product Details
-Customer Information
-Sales Transactions
-Order Status
-Payment Methods
-Shipping Information
-Customer Feedback
+- Product Details
+- Customer Information
+- Sales Transactions
+- Order Status
+- Payment Methods
+- Shipping Information
+- Customer Feedback
