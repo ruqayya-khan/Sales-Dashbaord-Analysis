@@ -49,3 +49,13 @@ The main objectives of this dashboard are:
 - Evaluate order fulfillment and shipping efficiency.
 - Track customer satisfaction through feedback analysis.
 - Develop practical Excel dashboarding skills.
+
+## Learning Outcomes
+
+Through this project, I learned:
+
+- Data cleaning in Excel
+- Pivot Table analysis
+- Dashboard creation
+- KPI reporting
+- Data storytelling
