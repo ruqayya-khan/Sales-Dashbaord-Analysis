@@ -67,6 +67,19 @@ The main objectives of this dashboard are:
 - Data Visualization
 - Interactive Dashboards
 
+## Key Insights
+
+- Total Revenue generated is 148K
+- The number of total customers and total order is equal i.e., all customers have made a purchase.
+- The average shipping time is 2.79 days.
+- Mountain Bikes is the ost popular product category and AeroSpeed 1000 generates the most revenue.
+- Europe orders the most product and Asia and North America generates similar revenue.
+- Only 52% customers have given a positive feedback whereas 31% and 8% customers have given neutral and negative feedbacks.
+- 20.9% orders get cancelled.
+- 56% orders are shipped through air.
+- BMX Bikes, Kids Bikes and Hybrid Bikes are the lowest on stock.
+- Blue and Orange are the most ordered color.
+
 ## Learning Outcomes
 
 Through this project, I learned:
